@@ -7,8 +7,6 @@
     <a href="https://bannei.id.vn/"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Website"/></a>
     <a href="https://github.com/quangbaong"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
   </p>
-  
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=30&animation=twinkle" alt="Header Banner" />
 </div>
 
 ---
